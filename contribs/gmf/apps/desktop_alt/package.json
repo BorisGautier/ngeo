@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "lit": "2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "vite": "2.5.4",
+    "typescript": "4.3.2"
+  }
+}

@@ -11,9 +11,10 @@
     "examples/*.js",
     "api/src/**/*.js",
     "contribs/gmf/src/**/*.js",
-    "contribs/gmf/apps/**/*.js",
     "contribs/gmf/test/spec/**/*.js",
     "contribs/gmf/examples/*.js",
+    "contribs/gmf/apps/**/*.js",
+    "contribs/gmf/apps/desktop_alt/vite.config.ts",
     "contribs/gmf/apps/desktop_alt/src/*.ts"
   ]
 }

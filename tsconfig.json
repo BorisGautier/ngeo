@@ -38,8 +38,7 @@
     "test/spec/**/*.js",
     "contribs/gmf/test/spec/**/*.js",
     "examples/*.js",
-    "contribs/gmf/examples/*.js",
-    "contribs/gmf/apps/desktop_alt/src/*.ts"
+    "contribs/gmf/examples/*.js"
   ],
   "files": ["types/dom.d.ts", "types/custom.d.ts"]
 }
